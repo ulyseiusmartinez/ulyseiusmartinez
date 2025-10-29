@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I’m Ulyseius Martinez, a data professional with a background in healthcare analytics and machine learning.
 
-<!--
-**ulyseiusmartinez/ulyseiusmartinez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in using data to uncover insights that drive smarter decisions in private physician groups — including predictive modeling for claim denials, revenue forecasting, and operational efficiency tracking.
 
-Here are some ideas to get you started:
+Areas of focus:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Healthcare finance & reimbursement analysis
+
+Predictive modeling (denial detection, payment behavior)
+
+ETL automation (Excel → SQL pipelines)
+
+Physician productivity, RVU, and staffing optimization
+
+Tools I use: Python (Pandas, Scikit-Learn, Keras), Power BI, SQL, Excel/Power Query, Streamlit
+
+I’m currently building projects that combine data engineering, AI, and health economics — all with the goal of improving healthcare outcomes and financial sustainability.
